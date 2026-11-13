@@ -1,0 +1,39 @@
+# Shrinka
+
+> Shrinka is a video compressor for iPhone and iPad (runs on Apple silicon Macs too). It offers three ready-made options for every video and shows the size and quality before compressing. Videos are processed on the device and never uploaded; no account.
+
+What it does: compresses videos from the Photos library, one or many at once, or straight from Photos through the Share menu. Each option shows how many times smaller the video gets and how much space it will take; a 5-second clip can be previewed before compressing. The compressed copy takes the original's place in the library: same date, same albums, Favorites, HDR, location and camera details are kept. The original is deleted with one button when the user decides. Manual settings: resolution, frame rate, bitrate, codec and file format. Free compressions every month; the Shrinka Pro subscription removes the limit.
+
+Facts: iOS 18 or later. App Store id 6748934452. Each page lists its translations via hreflang.
+
+## Pages
+
+- [Home: what Shrinka does, how it works, pricing, comparison with online compressors](https://shrinka.byles.app/)
+- [Privacy policy](https://shrinka.byles.app/privacy.html)
+- [Terms of use](https://shrinka.byles.app/terms.html)
+- [Support](https://shrinka.byles.app/support.html)
+- [FAQ](https://shrinka.byles.app/faq.html)
+
+## Download
+
+- [Shrinka on the App Store](https://apps.apple.com/app/id6748934452)
+
+## Languages
+
+- [English](https://shrinka.byles.app/)
+- [Русский](https://shrinka.byles.app/ru/)
+- [Українська](https://shrinka.byles.app/uk/)
+- [Deutsch](https://shrinka.byles.app/de/)
+- [Français](https://shrinka.byles.app/fr/)
+- [Español](https://shrinka.byles.app/es/)
+- [Italiano](https://shrinka.byles.app/it/)
+- [Português (Brasil)](https://shrinka.byles.app/pt-BR/)
+- [Polski](https://shrinka.byles.app/pl/)
+- [Türkçe](https://shrinka.byles.app/tr/)
+- [Nederlands](https://shrinka.byles.app/nl/)
+- [Bahasa Indonesia](https://shrinka.byles.app/id/)
+- [Tiếng Việt](https://shrinka.byles.app/vi/)
+- [简体中文](https://shrinka.byles.app/zh-Hans/)
+- [繁體中文](https://shrinka.byles.app/zh-Hant/)
+- [日本語](https://shrinka.byles.app/ja/)
+- [한국어](https://shrinka.byles.app/ko/)
